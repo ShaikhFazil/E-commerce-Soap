@@ -1,0 +1,17 @@
+.text-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .text-heading {
+    font-size: 44px;
+    font-weight: bold;
+    color: #d4a017; /* Dark Yellow for text */
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+    /* Applying text-shadow to create a glowing effect */
+    text-shadow: -5px 2px yellow;
+  }
+  
